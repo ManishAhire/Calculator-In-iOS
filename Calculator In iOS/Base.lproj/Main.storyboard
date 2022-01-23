@@ -302,7 +302,7 @@
                             <constraint firstItem="1DS-JM-tVY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="8Tg-Vt-SvL"/>
                             <constraint firstItem="1DS-JM-tVY" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="JOR-jB-qO0"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="1DS-JM-tVY" secondAttribute="bottom" id="dTi-LF-0iz"/>
-                            <constraint firstAttribute="trailing" secondItem="1DS-JM-tVY" secondAttribute="trailing" id="heC-29-Zr5"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="1DS-JM-tVY" secondAttribute="trailing" id="heC-29-Zr5"/>
                         </constraints>
                     </view>
                     <connections>
