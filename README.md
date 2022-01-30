@@ -1,4 +1,4 @@
-# Calculator-In-iOS
+# Calculator In Swift
 
 A simple Calculator app which includes following operations / features.
 
@@ -40,8 +40,8 @@ A simple Calculator app which includes following operations / features.
 
 
 ## Contact
-Name: Manish Ahre
+**Name:** Manish Ahire
 
-Portfolio: [www.manishahire.com](https://www.manishahire.com/) 
+**Portfolio:** [www.manishahire.com](https://www.manishahire.com/) 
 
-Blog: [www.mobodevstuff.com](https://www.mobodevstuff.com/) 
+**Blog:** [www.mobodevstuff.com](https://www.mobodevstuff.com/) 

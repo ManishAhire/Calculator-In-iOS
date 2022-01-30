@@ -17,6 +17,7 @@
 		1178BFB0279D9FC600E939EF /* iPadLanscapeMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 1178BFAC279D9FC600E939EF /* iPadLanscapeMode.png */; };
 		1178BFB1279D9FC600E939EF /* iPhoneLanscapeMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 1178BFAD279D9FC600E939EF /* iPhoneLanscapeMode.png */; };
 		1178BFB2279D9FC600E939EF /* iPhonePortraitMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 1178BFAE279D9FC600E939EF /* iPhonePortraitMode.png */; };
+		11C3477327A6935F00A7E292 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 11C3477227A6935F00A7E292 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		1178BFAC279D9FC600E939EF /* iPadLanscapeMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPadLanscapeMode.png; sourceTree = "<group>"; };
 		1178BFAD279D9FC600E939EF /* iPhoneLanscapeMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhoneLanscapeMode.png; sourceTree = "<group>"; };
 		1178BFAE279D9FC600E939EF /* iPhonePortraitMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhonePortraitMode.png; sourceTree = "<group>"; };
+		11C3477227A6935F00A7E292 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 		1178BF8A279C1FF500E939EF = {
 			isa = PBXGroup;
 			children = (
+				11C3477227A6935F00A7E292 /* README.md */,
 				1178BFAA279D9FC600E939EF /* Screenshots */,
 				1178BF95279C1FF600E939EF /* Calculator In iOS */,
 				1178BF94279C1FF600E939EF /* Products */,
@@ -151,6 +154,7 @@
 				1178BFB2279D9FC600E939EF /* iPhonePortraitMode.png in Resources */,
 				1178BFA0279C1FF800E939EF /* Assets.xcassets in Resources */,
 				1178BF9E279C1FF600E939EF /* Main.storyboard in Resources */,
+				11C3477327A6935F00A7E292 /* README.md in Resources */,
 				1178BFAF279D9FC600E939EF /* iPadPortraitMode.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
